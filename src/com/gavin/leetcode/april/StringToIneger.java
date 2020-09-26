@@ -1,4 +1,4 @@
-package com.gavin.april;
+package com.gavin.leetcode.april;
 
 /**
  * #8.字符串转换整数（atoi）

@@ -1,4 +1,4 @@
-package com.gavin.april;
+package com.gavin.leetcode.april;
 
 /**
  * #42.接水滴

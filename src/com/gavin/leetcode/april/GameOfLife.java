@@ -1,4 +1,4 @@
-package com.gavin.april;
+package com.gavin.leetcode.april;
 
 /**
  * #289.生命游戏
